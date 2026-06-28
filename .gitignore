@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+fraud_cleaned.csv
+fraud_engineered.csv
+.claude/
+New folder/
